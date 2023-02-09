@@ -1,0 +1,42 @@
+{
+    "basic.params.mapcenter": "E1063903.835;N294351.945",
+    "basic.params.icao": "ZUCK",
+    
+    "app.theme.accentcolor":"Demo.accent.Orange", 
+    "app.theme.font": "",
+    "app.theme.lookfeel": "",
+    "app.theme.font.size": "12",
+
+    "app.window.scale": "0.6",
+    "app.window.location": "0x0",
+
+    "file.path.map": "E:\\development\\airport_map\\zuck",
+            
+    "screen.view.slicew":"8",
+    "screen.view.sliceh":"4",
+    "screen.view.magnification":"20",
+
+    "map.view.maxrange":"300000",
+    "map.view.minrange":"2000",
+    "map.view.init.visible.range":"20000",
+    "map.view.scalestep":"1000",
+    "map.airport.layers": [
+          "protectedareas",
+          "EMR_Airport",
+          "taxiwayname",
+          "standsno",
+          "gateline",
+          "runwayline",
+          "taxiwaysign",
+          "bridges",
+          "standendpoints",
+          "taxiwayline",
+          "runway",
+          "terminal",
+          "buildinginside",
+          "buildingoutside",
+          "grass",
+          "taxiway"
+    ]
+    
+}
